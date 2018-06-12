@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">EyenightPro</string>
-</resources>
-
-<string name="eyenightpro_server_url">"https://eyenight-dev.herokuapp.com/parse"</string>
-
-    <!-- Change the following strings as required -->
-<string name="eyenightpro_app_id">"1TcAvt0wD6YDxEffIJ7qJtRQvMXzu7"</string>
-<string name="eyenightpro_client_key">"XUNfi612hLNdS6V8TTb582YTou8qSX"</string>
