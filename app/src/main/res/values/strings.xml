@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EyenightPro</string>
+    <string name="maxenceUsername">maxence@eyenightapp.com</string>
+    <string name="hint_email_username">Email / Username</string>
+    <string name="hint_password">Password</string>
+    <string name="maxencePassword">eyenight</string>
 </resources>
